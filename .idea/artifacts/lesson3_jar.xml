@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lesson3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lesson3_jar</output-path>
+    <root id="archive" name="lesson3.jar">
+      <element id="module-output" name="lesson3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/shpp-cs-java-lib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/shpp-cs-java-lib-graf.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
